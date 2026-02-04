@@ -2,17 +2,20 @@
 
 ### Desenvolvedor Front-end | Web Developer  
 
-Olá! Me chamo **Ricardo Eduardo Soares** 👋  
+Olá! Me chamo **Ricardo Eduardo**  
 Sou desenvolvedor focado em **criação de interfaces modernas, responsivas e performáticas**, utilizando as principais tecnologias do ecossistema front-end.
 
-Tenho paixão por transformar ideias em experiências digitais bem construídas, sempre buscando **boas práticas, organização de código e evolução constante** 🚀  
+Tenho paixão por transformar ideias em experiências digitais bem construídas, sempre buscando **boas práticas, organização de código e evolução constante** 
 
-📸 **Instagram:** https://www.instagram.com/  
-🌐 **Portfólio:** https://musical-conkies-a505a8.netlify.app/sobre  
+[![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=mention&logoColor=white)](https://www.instagram.com/ricardooeduardo)
+[![Portfólio](https://custom-icon-badges.demolab.com/badge/Portfólio-red?logo=activity&logoSource=feather&style=for-the-badge)](https://musical-conkies-a505a8.netlify.app)
+
+
+
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 HTML • CSS • JavaScript • TypeScript  
 React • Next.js • Tailwind CSS  
@@ -30,13 +33,3 @@ React • Next.js • Tailwind CSS
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-</p>
